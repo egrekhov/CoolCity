@@ -16,9 +16,9 @@ Git
 
 Quick Start:
 
-git clone https://github.com/SOPHIEfree/osm-project.git
-cd osm-project
-docker compose up -d --build
+git clone https://github.com/SOPHIEfree/CoolCity.git
+cd CoolCity 
+docker compose up -d --build
 
 
 Services:
