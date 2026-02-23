@@ -16,7 +16,7 @@ Git
 
 Quick Start:
 
-git clone https://github.com/SOPHIEfree/CoolCity.git
+git clone https://github.com/egrekhov/CoolCity.git
 cd CoolCity 
 docker compose up -d --build
 
